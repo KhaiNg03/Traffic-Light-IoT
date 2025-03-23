@@ -1,0 +1,81 @@
+C:\Users\admin\source\repos\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.exe.config
+C:\Users\admin\source\repos\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.exe
+C:\Users\admin\source\repos\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.pdb
+C:\Users\admin\source\repos\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.Form1.resources
+C:\Users\admin\source\repos\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.Properties.Resources.resources
+C:\Users\admin\source\repos\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.exe
+C:\Users\admin\source\repos\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.pdb
+C:\Users\Thong\Documents\School\IoT\cuoi ki\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.exe.config
+C:\Users\Thong\Documents\School\IoT\cuoi ki\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.exe
+C:\Users\Thong\Documents\School\IoT\cuoi ki\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.pdb
+C:\Users\Thong\Documents\School\IoT\cuoi ki\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.AssemblyReference.cache
+C:\Users\Thong\Documents\School\IoT\cuoi ki\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.Form1.resources
+C:\Users\Thong\Documents\School\IoT\cuoi ki\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.Properties.Resources.resources
+C:\Users\Thong\Documents\School\IoT\cuoi ki\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.GenerateResource.cache
+C:\Users\Thong\Documents\School\IoT\cuoi ki\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.CoreCompileInputs.cache
+C:\Users\Thong\Documents\School\IoT\cuoi ki\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.exe
+C:\Users\Thong\Documents\School\IoT\cuoi ki\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.pdb
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.exe.config
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.exe
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.pdb
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.Form1.resources
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.Properties.Resources.resources
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.exe
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.pdb
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Desktop\TrafficLightControlN6\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficL.FE615A05.Up2Date
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.exe.config
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.exe
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.pdb
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\EntityFramework.dll
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\System.Data.SQLite.dll
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\EntityFramework.xml
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\System.Data.SQLite.xml
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.AssemblyReference.cache
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.Form1.resources
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.Properties.Resources.resources
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.GenerateResource.cache
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.CoreCompileInputs.cache
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficL.FE615A05.Up2Date
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.exe
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.pdb
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Thong\Documents\School\IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.exe.config
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.exe
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\TrafficLightControlN6.pdb
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\System.Data.SQLite.dll
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\bin\Debug\System.Data.SQLite.xml
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.Form1.resources
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.Properties.Resources.resources
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficL.FE615A05.Up2Date
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.exe
+C:\Users\admin\Downloads\Traffic-Light-IoT\TrafficLightControlN6\TrafficLightControlN6\obj\Debug\TrafficLightControlN6.pdb

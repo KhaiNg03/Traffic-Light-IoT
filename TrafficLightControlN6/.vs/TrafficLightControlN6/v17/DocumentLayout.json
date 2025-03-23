@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\Traffic-Light-IoT\\TrafficLightControlN6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD24228A-8385-4B9C-8BCA-ADA68CB38363}|TrafficLightControlN6\\TrafficLightControlN6.csproj|c:\\users\\admin\\downloads\\traffic-light-iot\\trafficlightcontroln6\\trafficlightcontroln6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD24228A-8385-4B9C-8BCA-ADA68CB38363}|TrafficLightControlN6\\TrafficLightControlN6.csproj|solutionrelative:trafficlightcontroln6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD24228A-8385-4B9C-8BCA-ADA68CB38363}|TrafficLightControlN6\\TrafficLightControlN6.csproj|C:\\Users\\admin\\Downloads\\Traffic-Light-IoT\\TrafficLightControlN6\\trafficlightcontroln6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BD24228A-8385-4B9C-8BCA-ADA68CB38363}|TrafficLightControlN6\\TrafficLightControlN6.csproj|solutionrelative:trafficlightcontroln6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD24228A-8385-4B9C-8BCA-ADA68CB38363}|TrafficLightControlN6\\TrafficLightControlN6.csproj|C:\\Users\\admin\\Downloads\\Traffic-Light-IoT\\TrafficLightControlN6\\trafficlightcontroln6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD24228A-8385-4B9C-8BCA-ADA68CB38363}|TrafficLightControlN6\\TrafficLightControlN6.csproj|solutionrelative:trafficlightcontroln6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Traffic-Light-IoT\\TrafficLightControlN6\\TrafficLightControlN6\\Form1.cs",
+              "RelativeDocumentMoniker": "TrafficLightControlN6\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Traffic-Light-IoT\\TrafficLightControlN6\\TrafficLightControlN6\\Form1.cs",
+              "RelativeToolTip": "TrafficLightControlN6\\Form1.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAUwJ0AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:16:56.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Traffic-Light-IoT\\TrafficLightControlN6\\TrafficLightControlN6\\Program.cs",
+              "RelativeDocumentMoniker": "TrafficLightControlN6\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Traffic-Light-IoT\\TrafficLightControlN6\\TrafficLightControlN6\\Program.cs",
+              "RelativeToolTip": "TrafficLightControlN6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:26:03.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\Traffic-Light-IoT\\TrafficLightControlN6\\TrafficLightControlN6\\Form1.cs",
+              "RelativeDocumentMoniker": "TrafficLightControlN6\\Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Downloads\\Traffic-Light-IoT\\TrafficLightControlN6\\TrafficLightControlN6\\Form1.cs [Design]",
+              "RelativeToolTip": "TrafficLightControlN6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T20:32:58.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
